@@ -185,6 +185,22 @@ Machine Learning mostra-se poderoso na detecção de Fake News e fundamental par
 
 <br><br>
 
+## 22-  [Our Crew:]()
+
+<br>
+
+
+- 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
+
+- 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+
+- 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
+  
+- 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
+
+
+<br><br>
+
 ## 9. Referências
 
 <br>
