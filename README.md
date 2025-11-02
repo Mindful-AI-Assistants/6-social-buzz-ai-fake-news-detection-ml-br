@@ -340,7 +340,7 @@ plt.show()
 
 <br><br>
 
-## 22-  [Our Crew:]()
+## 9. [Our Crew:]()
 
 <br>
 
@@ -351,7 +351,7 @@ plt.show()
 
 <br><br>
 
-## 9. References
+## 10. [References]()
 
 <br>
 
