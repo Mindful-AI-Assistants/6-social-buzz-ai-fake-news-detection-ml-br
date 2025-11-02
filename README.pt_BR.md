@@ -2,7 +2,7 @@
 
 <br>
 
-# Detecção de Fake News usando Machine Learning
+# # <p align="center"> 6- Social [Buzz AI]() -Detecção de Fake News usando Machine Learning
 
 
 <br>
