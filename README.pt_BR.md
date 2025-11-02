@@ -26,6 +26,10 @@
 - Propor uma solução automatizada, replicável e útil à sociedade.[^1]
 
 
+
+<br><br>
+
+
 ## 3. Metodologia Detalhada
 
 <br>
@@ -54,3 +58,5 @@
 
 - **Validação dos modelos:** Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.[^1]
 
+
+<br><br>
