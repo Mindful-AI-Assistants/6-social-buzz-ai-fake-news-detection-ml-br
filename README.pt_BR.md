@@ -357,7 +357,7 @@ Machine Learning mostra-se poderoso na detecção de Fake News e fundamental par
 
 <br><br>
 
-## 22-  [Our Crew:]()
+## 9.  [Our Crew:]()
 
 <br>
 
@@ -373,7 +373,7 @@ Machine Learning mostra-se poderoso na detecção de Fake News e fundamental par
 
 <br><br>
 
-## 9. Referências
+## 10. Referências
 
 <br>
 
