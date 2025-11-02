@@ -90,3 +90,27 @@ Cinco modelos supervisionados foram treinados e avaliados:
 - Verdadeiros Negativos (VN): 4.234
 
 <br><br>
+
+
+## 5. Métricas de Avaliação
+
+- **Acurácia:** Percentual total de acertos do modelo.
+- **Precisão:** Quão corretamente detecta fake news.
+- **Sensibilidade:** Capacidade de identificar corretamente as verdadeiras fake news.
+- **Especificidade:** Capacidade de acertar os valores negativos (verdadeiras).[^1]
+
+<br>
+
+#### Desempenho dos Modelos
+
+<br><br>
+
+| Modelo | Precisão | Sensibilidade | Especificidade |
+| :-- | :-- | :-- | :-- |
+| Regressão Logística | 98% | 99% | 98% |
+| Decision Tree | 98,5% | 99% | 99% |
+| Random Forest | 98,5% | 99% | 98% |
+| SVM | 99% | 99% | 99% |
+| KNN | 99% | 57% | 19% |
+
+<br><br>
