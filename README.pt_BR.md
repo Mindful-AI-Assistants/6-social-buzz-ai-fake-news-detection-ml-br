@@ -23,7 +23,7 @@
 
 - Testar e comparar diferentes algoritmos de ML para detectar fake news.
 - Avaliar o desempenho de cada modelo em precisão, sensibilidade e especificidade.
-- Propor uma solução automatizada, replicável e útil à sociedade.[^1]
+- Propor uma solução automatizada, replicável e útil à sociedade.
 
 
 
@@ -56,7 +56,7 @@
 
 <br>
 
-- **Validação dos modelos:** Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.[^1]
+- **Validação dos modelos:** Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.
 
 
 <br><br>
@@ -97,7 +97,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 - **Acurácia:** Percentual total de acertos do modelo.
 - **Precisão:** Quão corretamente detecta fake news.
 - **Sensibilidade:** Capacidade de identificar corretamente as verdadeiras fake news.
-- **Especificidade:** Capacidade de acertar os valores negativos (verdadeiras).[^1]
+- **Especificidade:** Capacidade de acertar os valores negativos (verdadeiras).
 
 <br>
 
@@ -114,3 +114,27 @@ Cinco modelos supervisionados foram treinados e avaliados:
 | KNN | 99% | 57% | 19% |
 
 <br><br>
+
+
+## 6. Resultados Detalhados
+
+<br>
+
+- Quatro dos cinco modelos atingiram acurácia superior a 90%.
+- O KNN obteve desempenho insatisfatório, principalmente devido ao alto número de **falsos negativos** (sensibilidade de 57%).
+- Decision Tree e SVM destacaram-se como os mais eficientes.
+- O processo de tratamento de dados e seleção de features foi fundamental para o sucesso dos modelos.
+
+
+<br><br>
+
+## 7. Limitações e Propostas Futuras
+
+<br>
+
+- **Limitações do trabalho:** Dificuldade para encontrar base de dados padronizada (especialmente em português), poucos sistemas aplicados à realidade brasileira.
+- **Perspectivas:** Avaliar novos algoritmos (Naive Bayes, Boosting, K-means, Gradiente Descendente), aplicar outras técnicas de validação, ampliar bases em português, incluir validação cruzada (K-fold, Leave-one-out) e desenvolver aplicações web para uso público
+
+
+<br><br>
+
