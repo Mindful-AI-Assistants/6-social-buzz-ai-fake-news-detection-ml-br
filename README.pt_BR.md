@@ -41,7 +41,7 @@
 
 <br><br>
 
-## 1. Introdução
+## 1. [Introdução]()
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <br><br>
 
-## 2. Objetivos do Estudo
+## 2. [Objetivos do Estudo]()
 
 <br>
 
@@ -64,11 +64,11 @@
 <br><br>
 
 
-## 3. Metodologia Detalhada
+## 3. [Metodologia Detalhada]()
 
 <br>
 
-- **Base de dados:** Obtida na plataforma Kaggle, composta por artigos fakes e verdadeiros, ambos com colunas de título, texto, assunto e data.
+- [**Base de dados:**]() Obtida na plataforma Kaggle, composta por artigos fakes e verdadeiros, ambos com colunas de título, texto, assunto e data.
     - Fake: 23.481 linhas
     - True: 21.417 linhas
 
@@ -78,7 +78,7 @@
 
 <br>
 
-- **Processamento dos dados:**
+- [**Processamento dos dados:**]()
     - Carregamento dos datasets e identificação da coluna alvo (target: 'fake' ou 'true').
     - União das tabelas e embaralhamento dos registros com a biblioteca `Shuffle` para evitar vieses.
     - Remoção das colunas de data e título para focar no texto.
@@ -90,13 +90,13 @@
 
 <br>
 
-- **Validação dos modelos:** Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.
+- [**Validação dos modelos:**]() Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.
 
 
 <br><br>
 
 
-## 4. Algoritmos Aplicados
+## 4. [Algoritmos Aplicados]()
 
 <br>
 
@@ -104,13 +104,13 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 <br><br>
 
-| Modelo | Acurácia | Observações |
+| [Modelo]() | [Acurácia]() | [Observações]() |
 | :-- | :-- | :-- |
-| Regressão Logística | 98,92% | Alta precisão, matriz de confusão mostra baixo índice de erro. |
-| Decision Tree | 99,6% | Melhor desempenho geral e menor erro nos resultados. |
-| Random Forest | 98,74% | Bom desempenho, matriz de confusão consistente. |
-| Support Vector Machine | 99,5% | Ótima acurácia e precisão, modelo robusto para textos. |
-| K-Nearest Neighbors (KNN) | 60,84% | Baixo desempenho, elevado número de falsos negativos. |
+| [Regressão Logística]() | 98,92% | Alta precisão, matriz de confusão mostra baixo índice de erro. |
+| [Decision Tree]() | 99,6% | Melhor desempenho geral e menor erro nos resultados. |
+| [Random Forest]() | 98,74% | Bom desempenho, matriz de confusão consistente. |
+| [Support Vector Machine]() | 99,5% | Ótima acurácia e precisão, modelo robusto para textos. |
+| [K-Nearest Neighbors (KNN)]() | 60,84% | Baixo desempenho, elevado número de falsos negativos. |
 
 <br><br>
 
