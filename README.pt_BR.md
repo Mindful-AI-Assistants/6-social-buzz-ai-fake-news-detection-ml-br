@@ -180,17 +180,22 @@ Cinco modelos supervisionados foram treinados e avaliados:
 - [Falsos Negativos (FN)](): 22
 - [Verdadeiros Negativos (VN)](): 4.234
 
-<br><br>
 
+
+<br><br>
 
 
 ## 4.1. Treinamento e Avaliação dos Modelos
 
+<br>
+
 A seguir, exemplos de modelos testados e avaliados.
 
-
+<br>
 
 ### Logistic Regression
+
+<br>
 
 ```python
 from sklearn.linear_model import LogisticRegression
@@ -203,8 +208,11 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
+<br>
 
 ### Decision Tree
+
+<br>
 
 ```python
 from sklearn.tree import DecisionTreeClassifier
@@ -216,8 +224,11 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
+<br>
 
 ### Random Forest
+
+<br>
 
 ```python
 from sklearn.ensemble import RandomForestClassifier
@@ -229,8 +240,12 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
+<br>
+
 
 ### SVM
+
+<br>
 
 ```python
 from sklearn.svm import SVC
@@ -242,8 +257,12 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
+<br>
+
 
 ### KNN
+
+<br>
 
 ```python
 from sklearn.neighbors import KNeighborsClassifier
@@ -255,7 +274,23 @@ print(confusion_matrix(y_test, y_pred))
 print(classification_report(y_test, y_pred))
 ```
 
+<br>
 
+### Visualização da Matriz de Confusão
+
+<br>
+
+```python
+import seaborn as sns
+
+cm = confusion_matrix(y_test, y_pred)
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
+plt.xlabel('Previsto')
+plt.ylabel('Real')
+plt.show()
+```
+
+<br><br>
 
 ## 5. [Métricas de Avaliação]()
 
