@@ -35,6 +35,7 @@
 > * [1-social-buzz-ai-main](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main)
 > *Part of the Humanistic AI Research & Data Modeling Series — where data meets human insight.*
 >
+>  *  [Access](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1):  NLP  - Class 1 Repo
 > <br>
 
 <br><br>
