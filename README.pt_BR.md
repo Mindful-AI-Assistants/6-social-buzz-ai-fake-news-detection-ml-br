@@ -94,6 +94,8 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 ## 5. Métricas de Avaliação
 
+<br>
+
 - **Acurácia:** Percentual total de acertos do modelo.
 - **Precisão:** Quão corretamente detecta fake news.
 - **Sensibilidade:** Capacidade de identificar corretamente as verdadeiras fake news.
@@ -103,7 +105,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 #### Desempenho dos Modelos
 
-<br><br>
+<br>
 
 | Modelo | Precisão | Sensibilidade | Especificidade |
 | :-- | :-- | :-- | :-- |
@@ -135,6 +137,24 @@ Cinco modelos supervisionados foram treinados e avaliados:
 - **Limitações do trabalho:** Dificuldade para encontrar base de dados padronizada (especialmente em português), poucos sistemas aplicados à realidade brasileira.
 - **Perspectivas:** Avaliar novos algoritmos (Naive Bayes, Boosting, K-means, Gradiente Descendente), aplicar outras técnicas de validação, ampliar bases em português, incluir validação cruzada (K-fold, Leave-one-out) e desenvolver aplicações web para uso público
 
+
+<br><br>
+
+
+## 8. Conclusão
+
+<br>
+
+- ML mostra-se poderoso na detecção de Fake News e fundamental para proteger a sociedade do impacto de informações falsas.
+- Pesquisa continua necessária, principalmente no contexto brasileiro.
+
+<br><br>
+
+## 9. Referências
+
+<br>
+
+Monteiro Bastos \& Monteiro de Lima (2023). Detecção de Fake News usando algoritmos Decision Tree, Support Vector Machine e K-Nearest Neighbors. Revista de Estudos Multidisciplinares XV Encontro Científico da UNDB.
 
 <br><br>
 
