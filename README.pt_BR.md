@@ -116,7 +116,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 **Métricas computadas via matriz de confusão** (incluindo VP, VN, FP, FN) e valores de precisão e sensibilidade detalhados para cada modelo.
 
-#### Exemplo: Matriz de confusão simplificada (Decision Tree)
+#### Exemplo: [Matriz de confusão simplificada (Decision Tree)]()
 
 - Verdadeiros Positivos (VP): 4.711
 - Falsos Positivos (FP): 13
@@ -126,18 +126,18 @@ Cinco modelos supervisionados foram treinados e avaliados:
 <br><br>
 
 
-## 5. Métricas de Avaliação
+## 5. [Métricas de Avaliação]()
 
 <br>
 
-- **Acurácia:** Percentual total de acertos do modelo.
-- **Precisão:** Quão corretamente detecta fake news.
-- **Sensibilidade:** Capacidade de identificar corretamente as verdadeiras fake news.
-- **Especificidade:** Capacidade de acertar os valores negativos (verdadeiras).
+- [**Acurácia:**]() Percentual total de acertos do modelo.
+- [**Precisão:**]() Quão corretamente detecta fake news.
+- [**Sensibilidade:**]() Capacidade de identificar corretamente as verdadeiras fake news.
+- [**Especificidade:**]() Capacidade de acertar os valores negativos (verdadeiras).
 
 <br>
 
-#### Desempenho dos Modelos
+#### [Desempenho dos Modelos]()
 
 <br>
 
