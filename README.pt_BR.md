@@ -81,26 +81,74 @@
 
 Python + bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
 
+<br>
 
+### 3.3. Processamento de Dados
 
+```python
+import pandas as pd
+import numpy as np
+import string
+import nltk
+from nltk.corpus import stopwords
 
+# Carrega bases fake e true
+fake = pd.read_csv('Fake.csv')
+true = pd.read_csv('True.csv')
+fake['target'] = 1
+true['target'] = 0
 
+# Concatena e embaralha registros
+data = pd.concat([fake, true], ignore_index=True)
+data = data.sample(frac=1).reset_index(drop=True)
 
+# Remove colunas título e data
+data.drop(['title', 'date'], axis=1, inplace=True)
 
+# Limpa texto (minúsculas, sem pontuação e sem stopwords)
+nltk.download('stopwords')
+stop_words = set(stopwords.words('portuguese'))
 
+def clean_text(text):
+    text = text.lower()
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    text = " ".join([word for word in text.split() if word not in stop_words])
+    return text
 
+data['text'] = data['text'].apply(clean_text)
+```
 
+<br>
 
+### 3.4. Visualização: WordCloud
 
+```python
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
+wc = WordCloud(width=800, height=400, background_color='white').generate(' '.join(data['text']))
+plt.figure(figsize=(10, 5))
+plt.imshow(wc, interpolation='bilinear')
+plt.axis('off')
+plt.show()
+```
 
+<br>
 
+### 3.5. Vetorização e Split
 
+```python
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
 
+X = data['text']
+y = data['target']
 
+vectorizer = TfidfVectorizer(max_features=5000)
+X_vect = vectorizer.fit_transform(X)
 
-
-
+X_train, X_test, y_train, y_test = train_test_split(X_vect, y, test_size=0.2, random_state=42)
+```
 
 
 <br><br>
