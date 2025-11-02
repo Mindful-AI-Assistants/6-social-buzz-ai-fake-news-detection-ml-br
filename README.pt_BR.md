@@ -179,7 +179,8 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 <br>
 
-- ML mostra-se poderoso na detecção de Fake News e fundamental para proteger a sociedade do impacto de informações falsas.
+- 
+Machine Learning mostra-se poderoso na detecção de Fake News e fundamental para proteger a sociedade do impacto de informações falsas.
 - Pesquisa continua necessária, principalmente no contexto brasileiro.
 
 <br><br>
