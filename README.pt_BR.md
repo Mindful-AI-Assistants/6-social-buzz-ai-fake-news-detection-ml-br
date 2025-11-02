@@ -36,7 +36,7 @@
 > * [1-social-buzz-ai-main](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main)
 > *Part of the Humanistic AI Research & Data Modeling Series — where data meets human insight.*
 >
-> <br
+> <br>
 
 
 <br><br>
