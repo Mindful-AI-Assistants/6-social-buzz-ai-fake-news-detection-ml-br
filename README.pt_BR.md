@@ -152,7 +152,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 <br><br>
 
 
-## 6. Resultados Detalhados
+## 6. [Resultados Detalhados]()
 
 <br>
 
@@ -164,18 +164,18 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 <br><br>
 
-## 7. Limitações e Propostas Futuras
+## 7. [Limitações e Propostas Futuras]()
 
 <br>
 
-- **Limitações do trabalho:** Dificuldade para encontrar base de dados padronizada (especialmente em português), poucos sistemas aplicados à realidade brasileira.
-- **Perspectivas:** Avaliar novos algoritmos (Naive Bayes, Boosting, K-means, Gradiente Descendente), aplicar outras técnicas de validação, ampliar bases em português, incluir validação cruzada (K-fold, Leave-one-out) e desenvolver aplicações web para uso público
+- [**Limitações do trabalho:**]() Dificuldade para encontrar base de dados padronizada (especialmente em português), poucos sistemas aplicados à realidade brasileira.
+- [**Perspectivas:**]() Avaliar novos algoritmos (Naive Bayes, Boosting, K-means, Gradiente Descendente), aplicar outras técnicas de validação, ampliar bases em português, incluir validação cruzada (K-fold, Leave-one-out) e desenvolver aplicações web para uso público
 
 
 <br><br>
 
 
-## 8. Conclusão
+## 8. [Conclusão]()
 
 <br>
 
