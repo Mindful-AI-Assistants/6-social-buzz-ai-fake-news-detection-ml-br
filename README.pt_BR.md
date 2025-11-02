@@ -183,6 +183,80 @@ Cinco modelos supervisionados foram treinados e avaliados:
 <br><br>
 
 
+
+## 4.1. Treinamento e Avaliação dos Modelos
+
+A seguir, exemplos de modelos testados e avaliados.
+
+
+
+### Logistic Regression
+
+```python
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, confusion_matrix
+
+lr = LogisticRegression()
+lr.fit(X_train, y_train)
+y_pred = lr.predict(X_test)
+print(confusion_matrix(y_test, y_pred))
+print(classification_report(y_test, y_pred))
+```
+
+
+### Decision Tree
+
+```python
+from sklearn.tree import DecisionTreeClassifier
+
+dt = DecisionTreeClassifier()
+dt.fit(X_train, y_train)
+y_pred = dt.predict(X_test)
+print(confusion_matrix(y_test, y_pred))
+print(classification_report(y_test, y_pred))
+```
+
+
+### Random Forest
+
+```python
+from sklearn.ensemble import RandomForestClassifier
+
+rf = RandomForestClassifier()
+rf.fit(X_train, y_train)
+y_pred = rf.predict(X_test)
+print(confusion_matrix(y_test, y_pred))
+print(classification_report(y_test, y_pred))
+```
+
+
+### SVM
+
+```python
+from sklearn.svm import SVC
+
+svm = SVC()
+svm.fit(X_train, y_train)
+y_pred = svm.predict(X_test)
+print(confusion_matrix(y_test, y_pred))
+print(classification_report(y_test, y_pred))
+```
+
+
+### KNN
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+
+knn = KNeighborsClassifier()
+knn.fit(X_train, y_train)
+y_pred = knn.predict(X_test)
+print(confusion_matrix(y_test, y_pred))
+print(classification_report(y_test, y_pred))
+```
+
+
+
 ## 5. [Métricas de Avaliação]()
 
 <br>
