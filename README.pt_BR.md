@@ -74,7 +74,7 @@
 
 <br>
 
-- **Ferramentas utilizadas:** Python e as bibliotecas Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK.
+- [**Ferramentas utilizadas:**]() Python e as bibliotecas Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK.
 
 <br>
 
