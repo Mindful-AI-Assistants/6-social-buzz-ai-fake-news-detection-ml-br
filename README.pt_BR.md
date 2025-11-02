@@ -68,22 +68,24 @@
 
 <br>
 
-### 3.1. Base de Dados
+### 3.1. Base de Dados]()
 
-- Dados obtidos no Kaggle:
+- [Dados obtidos no Kaggle:]()
     - Fake: 23.481 exemplos
     - True: 21.417 exemplos
-- Colunas principais: título, texto, assunto, data
+- [Colunas principais:]() título, texto, assunto, data
 
 <br>
 
-### 3.2. Ferramentas Utilizadas
+### 3.2. [Ferramentas Utilizadas]()
 
 Python + bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
 
 <br>
 
-### 3.3. Processamento de Dados
+### 3.3. [Processamento de Dados]()
+
+<br>
 
 ```python
 import pandas as pd
@@ -120,7 +122,9 @@ data['text'] = data['text'].apply(clean_text)
 
 <br>
 
-### 3.4. Visualização: WordCloud
+### 3.4. [Visualização: WordCloud]()
+
+<br>
 
 ```python
 from wordcloud import WordCloud
@@ -135,7 +139,9 @@ plt.show()
 
 <br>
 
-### 3.5. Vetorização e Split
+### 3.5. [Vetorização e Split]()
+
+<br>
 
 ```python
 from sklearn.model_selection import train_test_split
@@ -159,7 +165,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_vect, y, test_size=0.2, ra
 
 Cinco modelos supervisionados foram treinados e avaliados:
 
-<br><br>
+<br>
 
 | [Modelo]() | [Acurácia]() | [Observações]() |
 | :-- | :-- | :-- |
@@ -169,7 +175,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 | [Support Vector Machine]() | 99,5% | Ótima acurácia e precisão, modelo robusto para textos. |
 | [K-Nearest Neighbors (KNN)]() | 60,84% | Baixo desempenho, elevado número de falsos negativos. |
 
-<br><br>
+<br>
 
 **Métricas computadas via matriz de confusão** (incluindo VP, VN, FP, FN) e valores de precisão e sensibilidade detalhados para cada modelo.
 
@@ -185,7 +191,7 @@ Cinco modelos supervisionados foram treinados e avaliados:
 <br><br>
 
 
-## 4.1. Treinamento e Avaliação dos Modelos
+## 4.1. [Treinamento e Avaliação dos Modelos]()
 
 <br>
 
@@ -193,7 +199,7 @@ A seguir, exemplos de modelos testados e avaliados.
 
 <br>
 
-### Logistic Regression
+### [Logistic Regression]()
 
 <br>
 
@@ -210,7 +216,7 @@ print(classification_report(y_test, y_pred))
 
 <br>
 
-### Decision Tree
+### [Decision Tree]()
 
 <br>
 
@@ -226,7 +232,7 @@ print(classification_report(y_test, y_pred))
 
 <br>
 
-### Random Forest
+### [Random Forest]()
 
 <br>
 
@@ -243,7 +249,7 @@ print(classification_report(y_test, y_pred))
 <br>
 
 
-### SVM
+### [SVM]()
 
 <br>
 
@@ -260,7 +266,7 @@ print(classification_report(y_test, y_pred))
 <br>
 
 
-### KNN
+### [KNN]()
 
 <br>
 
@@ -276,7 +282,7 @@ print(classification_report(y_test, y_pred))
 
 <br>
 
-### Visualização da Matriz de Confusão
+### [Visualização da Matriz de Confusão]()
 
 <br>
 
