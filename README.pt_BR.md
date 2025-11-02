@@ -118,10 +118,10 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 #### Exemplo: [Matriz de confusão simplificada (Decision Tree)]()
 
-- Verdadeiros Positivos (VP): 4.711
-- Falsos Positivos (FP): 13
-- Falsos Negativos (FN): 22
-- Verdadeiros Negativos (VN): 4.234
+- [Verdadeiros Positivos (VP)](): 4.711
+- [Falsos Positivos (FP)](): 13
+- [Falsos Negativos (FN)](): 22
+- [Verdadeiros Negativos (VN)](): 4.234
 
 <br><br>
 
@@ -141,13 +141,13 @@ Cinco modelos supervisionados foram treinados e avaliados:
 
 <br>
 
-| Modelo | Precisão | Sensibilidade | Especificidade |
+| [Modelo]() | [Precisão]() | [Sensibilidade]() | [Especificidade]() |
 | :-- | :-- | :-- | :-- |
-| Regressão Logística | 98% | 99% | 98% |
-| Decision Tree | 98,5% | 99% | 99% |
-| Random Forest | 98,5% | 99% | 98% |
-| SVM | 99% | 99% | 99% |
-| KNN | 99% | 57% | 19% |
+| [Regressão Logística]() | 98% | 99% | 98% |
+| [Decision Tree]() | 98,5% | 99% | 99% |
+| [Random Forest]() | 98,5% | 99% | 98% |
+| [SVM]() | 99% | 99% | 99% |
+| [KNN]() | 99% | 57% | 19% |
 
 <br><br>
 
