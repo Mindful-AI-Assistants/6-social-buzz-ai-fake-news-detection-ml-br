@@ -60,3 +60,33 @@
 
 
 <br><br>
+
+
+## 4. Algoritmos Aplicados
+
+<br>
+
+Cinco modelos supervisionados foram treinados e avaliados:
+
+<br><br>
+
+| Modelo | Acurácia | Observações |
+| :-- | :-- | :-- |
+| Regressão Logística | 98,92% | Alta precisão, matriz de confusão mostra baixo índice de erro. |
+| Decision Tree | 99,6% | Melhor desempenho geral e menor erro nos resultados. |
+| Random Forest | 98,74% | Bom desempenho, matriz de confusão consistente. |
+| Support Vector Machine | 99,5% | Ótima acurácia e precisão, modelo robusto para textos. |
+| K-Nearest Neighbors (KNN) | 60,84% | Baixo desempenho, elevado número de falsos negativos. |
+
+<br><br>
+
+**Métricas computadas via matriz de confusão** (incluindo VP, VN, FP, FN) e valores de precisão e sensibilidade detalhados para cada modelo.
+
+#### Exemplo: Matriz de confusão simplificada (Decision Tree)
+
+- Verdadeiros Positivos (VP): 4.711
+- Falsos Positivos (FP): 13
+- Falsos Negativos (FN): 22
+- Verdadeiros Negativos (VN): 4.234
+
+<br><br>
