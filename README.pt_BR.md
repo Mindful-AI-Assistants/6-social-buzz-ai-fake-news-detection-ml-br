@@ -68,33 +68,42 @@
 
 <br>
 
-- [**Base de dados:**]() Obtida na plataforma Kaggle, composta por artigos fakes e verdadeiros, ambos com colunas de título, texto, assunto e data.
-    - Fake: 23.481 linhas
-    - True: 21.417 linhas
+### 3.1. Base de Dados
+
+- Dados obtidos no Kaggle:
+    - Fake: 23.481 exemplos
+    - True: 21.417 exemplos
+- Colunas principais: título, texto, assunto, data
 
 <br>
 
-- [**Ferramentas utilizadas:**]() Python e as bibliotecas Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK.
+### 3.2. Ferramentas Utilizadas
 
-<br>
+Python + bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
 
-- [**Processamento dos dados:**]()
-    - Carregamento dos datasets e identificação da coluna alvo (target: 'fake' ou 'true').
-    - União das tabelas e embaralhamento dos registros com a biblioteca `Shuffle` para evitar vieses.
-    - Remoção das colunas de data e título para focar no texto.
-    - Normalização do texto:
-        - Transformação para letras minúsculas.
-        - Remoção de pontuação (biblioteca `string`).
-        - Eliminação dos 'stopwords' (NLTK).
-    - Análise visual dos termos mais frequentes por meio de *WordCloud*.
 
-<br>
 
-- [**Validação dos modelos:**]() Técnica **Holdout**, separando dados de treino e teste objetivando avaliar o desempenho de cada algoritmo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br><br>
-
 
 ## 4. [Algoritmos Aplicados]()
 
