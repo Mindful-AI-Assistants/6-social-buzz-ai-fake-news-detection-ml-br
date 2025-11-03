@@ -358,10 +358,8 @@ plt.show()
 
 <br>
 
-- 👨🏽‍🚀 [**Andson Ribeiro**](https://github.com/andsonandreribeiro09)
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
 - 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
-- 🧑🏼‍🚀 [**Pedro Vyctor**](https://github.com/Pgbarenco)
 
 <br><br>
 
