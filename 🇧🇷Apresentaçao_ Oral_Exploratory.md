@@ -55,10 +55,6 @@ Deve-se testar mais algoritmos, ampliar dados e validar melhor.
 
 ML é poderoso para detectar Fake News e proteger a sociedade!
 
-<br>
-
-## Código Explicado (Bilingue para Colab)
-
 
 <br>
 
