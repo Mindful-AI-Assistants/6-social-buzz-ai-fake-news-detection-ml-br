@@ -36,7 +36,20 @@
 > *Part of the Humanistic AI Research & Data Modeling Series — where data meets human insight.*
 >
 >  *  [Access](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1):  NLP  - Class 1 Repo
-> <br>
+>
+> 
+>  *  [Access]() Code
+> 
+>  *  [Access]()  True Dataset
+> 
+> *  [Access]()  Fake Dataset
+> 
+>  <br>
+> 
+
+
+
+
 
 <br><br>
 
