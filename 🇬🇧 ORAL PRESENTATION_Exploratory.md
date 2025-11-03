@@ -126,6 +126,8 @@ true['target'] = 0  # True News
 
 ### We put everything together in a big table and shuffle it like a deck of cards! We remove title and date to focus only on the text.
 
+<br>
+
 ```python
 data = pd.concat([fake, true], ignore_index=True)
 data = data.sample(frac=1).reset_index(drop=True)
@@ -209,9 +211,12 @@ for nome, modelo in modelos.items():
 ```
 
 
-***
+<br>
 
 ### If you want to save a trained machine to use later, just save it!
+
+
+<br>
 
 ```python
 # from joblib import dump, load
@@ -219,7 +224,7 @@ for nome, modelo in modelos.items():
 ```
 
 
-***
+<br>
 
 **Conclusion**
 Machine Learning proved promising for detecting Fake News. With research, we can build a safer world for everyone!
