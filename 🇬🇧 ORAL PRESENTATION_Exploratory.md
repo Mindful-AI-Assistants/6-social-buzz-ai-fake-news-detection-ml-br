@@ -32,10 +32,16 @@ The aim of this work was to analyze different algorithms to automatically detect
 We collected many news articles (both fake and true) from Kaggle.
 We cleaned, standardized, and shuffled the data. We visually analyzed them with WordCloud and split into training and testing sets.
 
+<br>
+
+
 ### 4. Algorithms Tested
 
 We used: Logistic Regression, Decision Tree, Random Forest, SVM, KNN.
 Each model “learns” to identify fake news.
+
+
+<br>
 
 ### 5. Results
 
@@ -43,32 +49,43 @@ Four models had accuracy above 90%. Decision Tree was the best.
 KNN made more mistakes.
 We analyzed accuracy, precision, sensitivity, specificity.
 
+
+<br>
+
 ### 6. Limitations and Future
 
 Difficulty finding datasets in Portuguese.
 It’s necessary to test more algorithms, expand datasets, and validate better.
 
+
+<br>
+
 ### 7. Conclusion
 
 ML is powerful for detecting Fake News and protecting society!
 
-***
+<br>
 
 ## Explained Code (Bilingual for Colab)
 
 
-***
+<br>
 
 ### This code installs the libraries we will use. They are like toolboxes for programming.
+
+<br>
 
 ```python
 !pip install wordcloud seaborn nltk
 ```
 
 
-***
+<br>
 
 ### We import the tools we just installed. This way, we can use their superpowers in the code.
+
+
+<br>
 
 ```python
 import pandas as pd
@@ -91,9 +108,11 @@ from nltk.corpus import stopwords
 ```
 
 
-***
+<br>
 
 ### Here we load the fake and real news we will study. Imagine two different books!
+
+<br>
 
 ```python
 fake = pd.read_csv('Fake.csv')   # Upload 'Fake.csv' to Colab
@@ -103,7 +122,7 @@ true['target'] = 0  # True News
 ```
 
 
-***
+<br>
 
 ### We put everything together in a big table and shuffle it like a deck of cards! We remove title and date to focus only on the text.
 
@@ -114,9 +133,11 @@ data.drop(['title', 'date'], axis=1, inplace=True)
 ```
 
 
-***
+<br>
 
 ### Let’s make words simpler: lowercase only, no punctuation or words that don’t help, like “a, the, of”.
+
+<br>
 
 ```python
 stop_words = set(stopwords.words('portuguese'))
