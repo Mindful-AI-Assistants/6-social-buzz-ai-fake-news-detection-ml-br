@@ -150,10 +150,11 @@ def clean_text(text):
 data['text'] = data['text'].apply(clean_text)
 ```
 
-
-***
+<br>
 
 ### See a pretty drawing with the words that show up most in the news, the word cloud.
+
+<br>
 
 ```python
 wc = WordCloud(width=800, height=400, background_color='white').generate(' '.join(data['text']))
@@ -163,10 +164,11 @@ plt.axis('off')
 plt.show()
 ```
 
-
-***
+<br>
 
 ### We turn texts into numbers that computers understand and split them into training and testing data for the computer to learn and practice.
+
+<br>
 
 ```python
 X = data['text']
@@ -177,9 +179,11 @@ X_train, X_test, y_train, y_test = train_test_split(X_vect, y, test_size=0.2, ra
 ```
 
 
-***
+<br>
 
 ### Now comes the magic! We will train five smart machines to tell if news is fake or real.
+
+<br>
 
 ```python
 modelos = {
