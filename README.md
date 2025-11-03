@@ -40,7 +40,7 @@
 > 
 >  *  [Access]() Code
 > 
->  *  [Access]()  True Dataset
+>  *  [Access](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br/tree/577f8663e07867b83047d1f00fd437c3bf434b55/dataset_True)  True Dataset
 > 
 > *  [Access](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br/tree/0f68f4132e72c0a43ca0f71e15a39525bd07bad4/dataset_Fake)  Fake Dataset
 > 
