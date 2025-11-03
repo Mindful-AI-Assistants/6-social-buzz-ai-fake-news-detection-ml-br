@@ -64,10 +64,6 @@ It’s necessary to test more algorithms, expand datasets, and validate better.
 
 ML is powerful for detecting Fake News and protecting society!
 
-<br>
-
-## Explained Code (Bilingual for Colab)
-
 
 <br>
 
