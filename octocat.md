@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50" height="50"> 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50" height="50"> https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br
 
 
 
