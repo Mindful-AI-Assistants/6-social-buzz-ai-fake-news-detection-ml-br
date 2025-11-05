@@ -361,9 +361,24 @@ plt.show()
 - 👩🏻‍🚀 **Fabiana ⚡️ Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
 - 👨🏽‍🚀 [**Pedro Barrenco**](https://github.com/Pgbarenco)
 
+
+
 <br><br>
 
-## 10. [References]()
+## 10. [QR Code]()
+
+
+<br>
+
+
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/89172562-c152-4f75-9e24-cbca5911dc4f" />
+
+
+
+<br><br>
+
+
+## 11. [References]()
 
 <br>
 
