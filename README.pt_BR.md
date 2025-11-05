@@ -4,14 +4,21 @@
 
 # <p align="center"> 6- Social [Buzz AI]() -Detecção de Fake News usando Machine Learning
 
-<br><br>
-
-
+<!--
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
+-->
+
 <br><br>
+
+ 
+https://github.com/user-attachments/assets/0d71c019-f29f-4500-8aed-930cb9f7c643
+
+<br><br>
+
+
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
