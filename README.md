@@ -2,30 +2,44 @@
  
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
-<br>
+<br><br>
 
 
 # <p align="center"> 6- [Social Buzz AI - Fake News Detection Using Machine Learning]()
 
+
 <br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+
+<!--
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
+-->
 
-<br><br>
+
+<br><br><br>
+
+
+https://github.com/user-attachments/assets/0132a415-c89a-42bc-a7c6-9d7f3a33932f
+
+
+<br><br><br><br><br>
+
+
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
 **Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
 
-<br><br>
+<br><br><br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-
-<br><br>
 
 > [!TIP]
 >
