@@ -5,7 +5,7 @@
 <br>
 
 
-# <p align="center"> 6- Social Buzz AI - Fake News Detection Using Machine Learning
+# <p align="center"> 6- [Social Buzz AI - Fake News Detection Using Machine Learning]()
 
 <br><br>
 
