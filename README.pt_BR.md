@@ -1,20 +1,42 @@
+<br>
+ 
+ 
  \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
-<br>
-
-# <p align="center"> 6- Social [Buzz AI]() -Detecção de Fake News usando Machine Learning
-
-<!--
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
-
--->
 
 <br><br>
 
+
+# <p align="center"> 6- [Social Buzz AI - Fake News Detection Using Machine Learning]()
+
+
+<br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<!--
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+-->
+
+
+<br><br><br>
+
  
 https://github.com/user-attachments/assets/0d71c019-f29f-4500-8aed-930cb9f7c643
+
+
+<br>
+
+###  <p align="center">  [Slide Presentation](https://pucsp-my.sharepoint.com/:p:/g/personal/ra00345784_pucsp_edu_br/EaWkOwj1kr1GpwSN3gNy5-QBHMnWdn5l8wFHhwZC3DDp0Q?e=Lb19cs&nav=eyJzSWQiOjI1NiwiY0lkIjowfQ)
+
+
+<br><br><br>
+
+#
 
 <br><br>
 
@@ -28,9 +50,7 @@ https://github.com/user-attachments/assets/0d71c019-f29f-4500-8aed-930cb9f7c643
 
 <br><br>
 
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
+#
 
 <br><br>
 
