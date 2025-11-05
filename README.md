@@ -37,7 +37,11 @@ https://github.com/user-attachments/assets/0132a415-c89a-42bc-a7c6-9d7f3a33932f
 -->
 
 
-<br><br><br><br><br>
+<br><br><br>
+
+#
+
+<br><br>
 
 
 
@@ -45,7 +49,13 @@ https://github.com/user-attachments/assets/0132a415-c89a-42bc-a7c6-9d7f3a33932f
 [**Institution:**]() PUC-SP  
 **Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
 
-<br><br><br><br>
+
+
+<br><br>
+
+#
+
+<br><br>
 
 
 
